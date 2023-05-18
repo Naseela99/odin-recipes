@@ -1,0 +1,34 @@
+*{
+    background-color: #b69090;
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+.__heading__{
+    background-color: white;
+    text-align: center;
+    font-size: 48px;
+    color: #6e6c6c;
+}
+
+
+ul.recipe_list ,li, a{
+    background-color: rgb(168, 161, 161);
+    text-align: center;
+    padding: 15px;
+
+}
+
+li{
+    list-style: none;
+    font-weight: 550;
+    font-size: 20px;
+
+
+}
+
+.recipe{
+    text-decoration: none;
+    color: #631c1c;
+
+
+}

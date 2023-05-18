@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(207, 197, 210);
+}
+
+.__heading__{
+    font-size: 50px;
+    color:#242024;
+    text-align: center;
+}
+img{
+    border-radius: 100px;
+    padding: 15px;
+}
+.descrip{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+
+.ing-steps{
+    background-color: #5e3578;
+    text-align: center;
+    color:white;
+}
+
