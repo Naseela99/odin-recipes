@@ -1,4 +1,4 @@
-*{
+body{
     background-color: #b69090;
     font-family: Verdana, "Times New Roman", sans-serif;
 }
@@ -11,19 +11,33 @@
 }
 
 
-ul.recipe_list ,li, a{
-    background-color: rgb(168, 161, 161);
-    text-align: center;
-    padding: 15px;
+.recipe_div{
+    display:block;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #6e6c6c;
 
 }
+ul{
+    margin: 2px auto;
+    padding: 10px 5px;
 
+
+}
 li{
+    display: block;
     list-style: none;
     font-weight: 550;
     font-size: 20px;
+    padding: 10px 5px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    text-align: center;
 
-
+}
+a{
+padding-left: 50px;
 }
 
 .recipe{
