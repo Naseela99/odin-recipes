@@ -5,3 +5,5 @@ A basic html based website with 3 pages for the different recipes. This website 
 Skills Used:
 1. HTML
 2. CSS styling (No focus on layout)
+
+**Click [here](https://naseela99.github.io/odin-recipes/) to view the website**
